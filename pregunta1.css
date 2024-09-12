@@ -1,0 +1,23 @@
+.campo {
+    float: left;
+    border: 2px dashed black;
+    padding: 70px;
+}
+
+.cuadro {
+    background-color:royalblue;
+}
+
+.imag {
+    vertical-align: baseline;
+    clear: right;
+    align-content: center;
+    border: 2px dashed black;
+    float: inline-start;
+}
+
+.texto {
+    border: 2px dashed black;
+    clear: both;
+    float: inline-end;
+}
